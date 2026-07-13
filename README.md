@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nurfaidzi Ramdhani Ariifin
 
-<!--
-**ubicilembusaparua/ubicilembusaparua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue" alt="Focus">
+  <img src="https://img.shields.io/badge/Environment-Linux%20%2F%20AWS-orange" alt="Environment">
+</p>
 
-Here are some ideas to get you started:
+## Technical Stack
+* **Languages:** Go, Rust, Python, TypeScript
+* **Data Storage:** PostgreSQL, Redis, ClickHouse
+* **Infrastructure:** Docker, Kubernetes, Terraform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Active Metrics
+[![](#)](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
